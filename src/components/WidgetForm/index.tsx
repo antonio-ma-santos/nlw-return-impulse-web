@@ -72,7 +72,7 @@ export function WidgetForm() {
       )}
 
       <footer>
-        Developed by <a className="underline underline-offset-2" href="https://github.com/antonio-ma-santosls">Antônio</a>
+        Developed by <a className="underline underline-offset-2" href="https://github.com/antonio-ma-santos">Antônio</a>
       </footer>
     </div>
   );
